@@ -1,0 +1,31 @@
+.body {
+    width: 100%;
+    display: flex;
+}
+.content {
+    width: 70%;
+    padding: 30px;
+    align-self: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header {
+    height: 100px;
+    background-color: beige;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    align-items: center;
+}
+a {
+    color: black;
+}
+small {
+    color: darkgrey;
+}
+.info {
+    color: darkred;
+}
+.btn {
+    background-color: darkgrey;
+}
